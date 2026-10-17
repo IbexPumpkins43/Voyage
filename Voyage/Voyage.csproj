@@ -7,4 +7,12 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Avalonia" Version="12.1.4" />
+      <PackageReference Include="Avalonia.Desktop" Version="12.1.4" />
+      <PackageReference Include="Avalonia.Themes.Fluent" Version="12.1.4" />
+      <PackageReference Include="Google.Protobuf" Version="3.36.2" />
+      <PackageReference Include="SkiaSharp" Version="4.153.1" />
+    </ItemGroup>
+
 </Project>
